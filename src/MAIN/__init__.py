@@ -1,0 +1,1 @@
+from MAIN.component_placement import component_placement
